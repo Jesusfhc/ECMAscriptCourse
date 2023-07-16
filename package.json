@@ -10,5 +10,6 @@
     "javascript"
   ],
   "author": "Jesus Hernandez <jjesusfhernandezc@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
