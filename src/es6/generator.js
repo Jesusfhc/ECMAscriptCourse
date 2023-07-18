@@ -2,7 +2,7 @@
 
 function* iterate(array) { //reserve word function* al hacer esto iniciamos un generador
     for (let value of array) {
-        yield value
+        yield value // reserve word para generators
     }
 }
 
